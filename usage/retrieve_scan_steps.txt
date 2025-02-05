@@ -1,8 +1,11 @@
 .. MusicBrainz Picard Documentation Project
 
-The steps to follow to :index:`scan and lookup files <scan files>` are:
+Scan will ignore existing tags, instead "listening" to the music to find a match. It will also split up clusters.
+If you are working with complete albums, with existing tags, we recommend using the `"Lookup"` function instead. 
 
-1. Add your files using :menuselection:`"Files --> Add Files..."` or :menuselection:`"Files --> Add Folder..."`.
+The steps to follow to :index:`lookup files using scan <scan files>` are:
+
+1. Add your files :menuselection:`"Files --> Add Files..."` or :menuselection:`"Files --> Add Folder..."`.
    For ease of use it is recommended to use the internal File Browser to manage file system interactions.  This is
    enabled from :menuselection:`"View --> File Browser"`.
 
