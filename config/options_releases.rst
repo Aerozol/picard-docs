@@ -8,7 +8,7 @@
 
 **Preferred Release Types**
 
-   Adjust the sliders on the right-hand side of each of the various release types to tweak how likely Picard is to match a file or cluster to releases of that types. Moving a slider to the right increases the likelihood of matching that type, while moving the slider to the left decreases the likelihood.
+   Adjust the sliders on the right-hand side of each of the various release types to tweak how likely Picard is to match a file or cluster to releases of that types. Moving a slider to the right increases the likelihood of matching that type, while moving the slider to the left decreases the likelihood. Setting the slider all the way to the left will only return that type if no other types are found.
 
    For example, you can use this to decrease the likelihood of Picard matching a file or album to a Compilation or Live version.
 
