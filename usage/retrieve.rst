@@ -65,8 +65,9 @@ release.
 
 If your files are not grouped into albums and you don't have the CD available, this is the only remaining method of
 automatically identifying the album to retrieve.  This is done by scanning the files to obtain their AcoustID
-fingerprints and then perform the lookup for the individual files by fingerprint.  The album(s) matching the files
-will show up in the right-hand pane based on a "best match" using the Preferred Releases settings in the Metadata options.
+fingerprints and then perform the lookup for the individual files by fingerprint.  Unlike Lookup, Scan does not respect
+clusters and is likely to split up albums.  The album(s) matching the fileswill show up in the right-hand pane based on
+a "best match" using the Preferred Releases settings in the Metadata options.
 
 .. only:: latex
 
